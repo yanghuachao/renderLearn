@@ -1,0 +1,149 @@
+﻿  geometry.cpp
+D:\works\Homework\ShaderMapping\geometry.cpp(4,69): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+D:\works\Homework\ShaderMapping\geometry.cpp(4,69): warning C4244:         with
+D:\works\Homework\ShaderMapping\geometry.cpp(4,69): warning C4244:         [
+D:\works\Homework\ShaderMapping\geometry.cpp(4,69): warning C4244:             T=int
+D:\works\Homework\ShaderMapping\geometry.cpp(4,69): warning C4244:         ]
+D:\works\Homework\ShaderMapping\geometry.cpp(4,69): warning C4244:         and
+D:\works\Homework\ShaderMapping\geometry.cpp(4,69): warning C4244:         [
+D:\works\Homework\ShaderMapping\geometry.cpp(4,69): warning C4244:             T=float
+D:\works\Homework\ShaderMapping\geometry.cpp(4,69): warning C4244:         ]
+D:\works\Homework\ShaderMapping\geometry.cpp(4,77): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+D:\works\Homework\ShaderMapping\geometry.cpp(4,77): warning C4244:         with
+D:\works\Homework\ShaderMapping\geometry.cpp(4,77): warning C4244:         [
+D:\works\Homework\ShaderMapping\geometry.cpp(4,77): warning C4244:             T=int
+D:\works\Homework\ShaderMapping\geometry.cpp(4,77): warning C4244:         ]
+D:\works\Homework\ShaderMapping\geometry.cpp(4,77): warning C4244:         and
+D:\works\Homework\ShaderMapping\geometry.cpp(4,77): warning C4244:         [
+D:\works\Homework\ShaderMapping\geometry.cpp(4,77): warning C4244:             T=float
+D:\works\Homework\ShaderMapping\geometry.cpp(4,77): warning C4244:         ]
+D:\works\Homework\ShaderMapping\geometry.cpp(4,85): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+D:\works\Homework\ShaderMapping\geometry.cpp(4,85): warning C4244:         with
+D:\works\Homework\ShaderMapping\geometry.cpp(4,85): warning C4244:         [
+D:\works\Homework\ShaderMapping\geometry.cpp(4,85): warning C4244:             T=int
+D:\works\Homework\ShaderMapping\geometry.cpp(4,85): warning C4244:         ]
+D:\works\Homework\ShaderMapping\geometry.cpp(4,85): warning C4244:         and
+D:\works\Homework\ShaderMapping\geometry.cpp(4,85): warning C4244:         [
+D:\works\Homework\ShaderMapping\geometry.cpp(4,85): warning C4244:             T=float
+D:\works\Homework\ShaderMapping\geometry.cpp(4,85): warning C4244:         ]
+D:\works\Homework\ShaderMapping\geometry.cpp(6,69): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+D:\works\Homework\ShaderMapping\geometry.cpp(6,69): warning C4244:         with
+D:\works\Homework\ShaderMapping\geometry.cpp(6,69): warning C4244:         [
+D:\works\Homework\ShaderMapping\geometry.cpp(6,69): warning C4244:             T=int
+D:\works\Homework\ShaderMapping\geometry.cpp(6,69): warning C4244:         ]
+D:\works\Homework\ShaderMapping\geometry.cpp(6,69): warning C4244:         and
+D:\works\Homework\ShaderMapping\geometry.cpp(6,69): warning C4244:         [
+D:\works\Homework\ShaderMapping\geometry.cpp(6,69): warning C4244:             T=float
+D:\works\Homework\ShaderMapping\geometry.cpp(6,69): warning C4244:         ]
+D:\works\Homework\ShaderMapping\geometry.cpp(6,77): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+D:\works\Homework\ShaderMapping\geometry.cpp(6,77): warning C4244:         with
+D:\works\Homework\ShaderMapping\geometry.cpp(6,77): warning C4244:         [
+D:\works\Homework\ShaderMapping\geometry.cpp(6,77): warning C4244:             T=int
+D:\works\Homework\ShaderMapping\geometry.cpp(6,77): warning C4244:         ]
+D:\works\Homework\ShaderMapping\geometry.cpp(6,77): warning C4244:         and
+D:\works\Homework\ShaderMapping\geometry.cpp(6,77): warning C4244:         [
+D:\works\Homework\ShaderMapping\geometry.cpp(6,77): warning C4244:             T=float
+D:\works\Homework\ShaderMapping\geometry.cpp(6,77): warning C4244:         ]
+  main.cpp
+D:\works\Homework\ShaderMapping\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\works\Homework\ShaderMapping\main.cpp(40,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\works\Homework\ShaderMapping\main.cpp(48,67): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+D:\works\Homework\ShaderMapping\main.cpp(48,67): warning C4244:         with
+D:\works\Homework\ShaderMapping\main.cpp(48,67): warning C4244:         [
+D:\works\Homework\ShaderMapping\main.cpp(48,67): warning C4244:             _Ty=float
+D:\works\Homework\ShaderMapping\main.cpp(48,67): warning C4244:         ]
+D:\works\Homework\ShaderMapping\main.cpp(48,63): warning C4244: “=”: 从“const _Ty”转换到“unsigned char”，可能丢失数据
+D:\works\Homework\ShaderMapping\main.cpp(48,63): warning C4244:         with
+D:\works\Homework\ShaderMapping\main.cpp(48,63): warning C4244:         [
+D:\works\Homework\ShaderMapping\main.cpp(48,63): warning C4244:             _Ty=float
+D:\works\Homework\ShaderMapping\main.cpp(48,63): warning C4244:         ]
+  model.cpp
+D:\works\Homework\ShaderMapping\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  (编译源文件“model.cpp”)
+  
+D:\works\Homework\ShaderMapping\model.cpp(85,55): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+D:\works\Homework\ShaderMapping\model.cpp(85,55): warning C4244:         with
+D:\works\Homework\ShaderMapping\model.cpp(85,55): warning C4244:         [
+D:\works\Homework\ShaderMapping\model.cpp(85,55): warning C4244:             T=float
+D:\works\Homework\ShaderMapping\model.cpp(85,55): warning C4244:         ]
+D:\works\Homework\ShaderMapping\model.cpp(85,55): warning C4244:         and
+D:\works\Homework\ShaderMapping\model.cpp(85,55): warning C4244:         [
+D:\works\Homework\ShaderMapping\model.cpp(85,55): warning C4244:             T=int
+D:\works\Homework\ShaderMapping\model.cpp(85,55): warning C4244:         ]
+D:\works\Homework\ShaderMapping\model.cpp(85,21): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+D:\works\Homework\ShaderMapping\model.cpp(85,21): warning C4244:         with
+D:\works\Homework\ShaderMapping\model.cpp(85,21): warning C4244:         [
+D:\works\Homework\ShaderMapping\model.cpp(85,21): warning C4244:             T=float
+D:\works\Homework\ShaderMapping\model.cpp(85,21): warning C4244:         ]
+D:\works\Homework\ShaderMapping\model.cpp(85,21): warning C4244:         and
+D:\works\Homework\ShaderMapping\model.cpp(85,21): warning C4244:         [
+D:\works\Homework\ShaderMapping\model.cpp(85,21): warning C4244:             T=int
+D:\works\Homework\ShaderMapping\model.cpp(85,21): warning C4244:         ]
+D:\works\Homework\ShaderMapping\model.cpp(90,54): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+D:\works\Homework\ShaderMapping\model.cpp(90,54): warning C4244:         with
+D:\works\Homework\ShaderMapping\model.cpp(90,54): warning C4244:         [
+D:\works\Homework\ShaderMapping\model.cpp(90,54): warning C4244:             T=float
+D:\works\Homework\ShaderMapping\model.cpp(90,54): warning C4244:         ]
+D:\works\Homework\ShaderMapping\model.cpp(90,54): warning C4244:         and
+D:\works\Homework\ShaderMapping\model.cpp(90,54): warning C4244:         [
+D:\works\Homework\ShaderMapping\model.cpp(90,54): warning C4244:             T=int
+D:\works\Homework\ShaderMapping\model.cpp(90,54): warning C4244:         ]
+D:\works\Homework\ShaderMapping\model.cpp(90,21): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+D:\works\Homework\ShaderMapping\model.cpp(90,21): warning C4244:         with
+D:\works\Homework\ShaderMapping\model.cpp(90,21): warning C4244:         [
+D:\works\Homework\ShaderMapping\model.cpp(90,21): warning C4244:             T=float
+D:\works\Homework\ShaderMapping\model.cpp(90,21): warning C4244:         ]
+D:\works\Homework\ShaderMapping\model.cpp(90,21): warning C4244:         and
+D:\works\Homework\ShaderMapping\model.cpp(90,21): warning C4244:         [
+D:\works\Homework\ShaderMapping\model.cpp(90,21): warning C4244:             T=int
+D:\works\Homework\ShaderMapping\model.cpp(90,21): warning C4244:         ]
+D:\works\Homework\ShaderMapping\model.cpp(103,56): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+D:\works\Homework\ShaderMapping\model.cpp(103,56): warning C4244:         with
+D:\works\Homework\ShaderMapping\model.cpp(103,56): warning C4244:         [
+D:\works\Homework\ShaderMapping\model.cpp(103,56): warning C4244:             T=float
+D:\works\Homework\ShaderMapping\model.cpp(103,56): warning C4244:         ]
+D:\works\Homework\ShaderMapping\model.cpp(103,56): warning C4244:         and
+D:\works\Homework\ShaderMapping\model.cpp(103,56): warning C4244:         [
+D:\works\Homework\ShaderMapping\model.cpp(103,56): warning C4244:             T=int
+D:\works\Homework\ShaderMapping\model.cpp(103,56): warning C4244:         ]
+D:\works\Homework\ShaderMapping\model.cpp(103,21): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+D:\works\Homework\ShaderMapping\model.cpp(103,21): warning C4244:         with
+D:\works\Homework\ShaderMapping\model.cpp(103,21): warning C4244:         [
+D:\works\Homework\ShaderMapping\model.cpp(103,21): warning C4244:             T=float
+D:\works\Homework\ShaderMapping\model.cpp(103,21): warning C4244:         ]
+D:\works\Homework\ShaderMapping\model.cpp(103,21): warning C4244:         and
+D:\works\Homework\ShaderMapping\model.cpp(103,21): warning C4244:         [
+D:\works\Homework\ShaderMapping\model.cpp(103,21): warning C4244:             T=int
+D:\works\Homework\ShaderMapping\model.cpp(103,21): warning C4244:         ]
+  our_gl.cpp
+D:\works\Homework\ShaderMapping\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  (编译源文件“our_gl.cpp”)
+  
+D:\works\Homework\ShaderMapping\our_gl.cpp(64,23): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+D:\works\Homework\ShaderMapping\our_gl.cpp(64,23): warning C4244:         with
+D:\works\Homework\ShaderMapping\our_gl.cpp(64,23): warning C4244:         [
+D:\works\Homework\ShaderMapping\our_gl.cpp(64,23): warning C4244:             T=float
+D:\works\Homework\ShaderMapping\our_gl.cpp(64,23): warning C4244:         ]
+D:\works\Homework\ShaderMapping\our_gl.cpp(64,23): warning C4244:         and
+D:\works\Homework\ShaderMapping\our_gl.cpp(64,23): warning C4244:         [
+D:\works\Homework\ShaderMapping\our_gl.cpp(64,23): warning C4244:             T=int
+D:\works\Homework\ShaderMapping\our_gl.cpp(64,23): warning C4244:         ]
+D:\works\Homework\ShaderMapping\our_gl.cpp(65,27): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+D:\works\Homework\ShaderMapping\our_gl.cpp(65,27): warning C4244:         with
+D:\works\Homework\ShaderMapping\our_gl.cpp(65,27): warning C4244:         [
+D:\works\Homework\ShaderMapping\our_gl.cpp(65,27): warning C4244:             T=float
+D:\works\Homework\ShaderMapping\our_gl.cpp(65,27): warning C4244:         ]
+D:\works\Homework\ShaderMapping\our_gl.cpp(65,27): warning C4244:         and
+D:\works\Homework\ShaderMapping\our_gl.cpp(65,27): warning C4244:         [
+D:\works\Homework\ShaderMapping\our_gl.cpp(65,27): warning C4244:             T=int
+D:\works\Homework\ShaderMapping\our_gl.cpp(65,27): warning C4244:         ]
+D:\works\Homework\ShaderMapping\our_gl.cpp(69,28): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\works\Homework\ShaderMapping\our_gl.cpp(73,58): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  tgaimage.cpp
+D:\works\Homework\ShaderMapping\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  (编译源文件“tgaimage.cpp”)
+  
+  正在生成代码...
+  ShaderMapping.vcxproj -> D:\works\Homework\ShaderMapping\x64\Debug\ShaderMapping.exe
