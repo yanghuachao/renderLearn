@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\works\Homework\Shader02\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+  Shader02.vcxproj -> D:\works\Homework\Shader02\x64\Debug\Shader02.exe
