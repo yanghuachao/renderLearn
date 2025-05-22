@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\works\Homework\MoveCamera\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\works\Homework\MoveCamera\main.cpp(72,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  MoveCamera.vcxproj -> D:\works\Homework\MoveCamera\x64\Debug\MoveCamera.exe
