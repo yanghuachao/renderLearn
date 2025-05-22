@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\works\Homework\projectionDay04\main.cpp(32,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  projectionDay04.vcxproj -> D:\works\Homework\projectionDay04\x64\Debug\projectionDay04.exe
