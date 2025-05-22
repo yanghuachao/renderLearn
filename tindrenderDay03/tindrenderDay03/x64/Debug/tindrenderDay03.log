@@ -1,0 +1,56 @@
+﻿  tindrenderDay03.cpp
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,73): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,73): warning C4244:         with
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,73): warning C4244:         [
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,73): warning C4244:             t=int
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,73): warning C4244:         ]
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,73): warning C4244:         and
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,73): warning C4244:         [
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,73): warning C4244:             t=float
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,73): warning C4244:         ]
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,50): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,50): warning C4244:         with
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,50): warning C4244:         [
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,50): warning C4244:             t=int
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,50): warning C4244:         ]
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,50): warning C4244:         and
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,50): warning C4244:         [
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,50): warning C4244:             t=float
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,50): warning C4244:         ]
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,27): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,27): warning C4244:         with
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,27): warning C4244:         [
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,27): warning C4244:             t=int
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,27): warning C4244:         ]
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,27): warning C4244:         and
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,27): warning C4244:         [
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,27): warning C4244:             t=float
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,27): warning C4244:         ]
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,145): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,145): warning C4244:         with
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,145): warning C4244:         [
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,145): warning C4244:             t=int
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,145): warning C4244:         ]
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,145): warning C4244:         and
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,145): warning C4244:         [
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,145): warning C4244:             t=float
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,145): warning C4244:         ]
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,122): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,122): warning C4244:         with
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,122): warning C4244:         [
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,122): warning C4244:             t=int
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,122): warning C4244:         ]
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,122): warning C4244:         and
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,122): warning C4244:         [
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,122): warning C4244:             t=float
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,122): warning C4244:         ]
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,99): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,99): warning C4244:         with
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,99): warning C4244:         [
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,99): warning C4244:             t=int
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,99): warning C4244:         ]
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,99): warning C4244:         and
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,99): warning C4244:         [
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,99): warning C4244:             t=float
+D:\works\Homework\tindrenderDay03\tindrenderDay03.cpp(11,99): warning C4244:         ]
+  tindrenderDay03.vcxproj -> D:\works\Homework\tindrenderDay03\x64\Debug\tindrenderDay03.exe
