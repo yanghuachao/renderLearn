@@ -1,0 +1,39 @@
+﻿  main.cpp
+D:\works\Homework\HiddenFace\tgaimage.h(58,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\works\Homework\HiddenFace\main.cpp(29,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\works\Homework\HiddenFace\main.cpp(55,59): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+D:\works\Homework\HiddenFace\main.cpp(55,59): warning C4244:         with
+D:\works\Homework\HiddenFace\main.cpp(55,59): warning C4244:         [
+D:\works\Homework\HiddenFace\main.cpp(55,59): warning C4244:             T=float
+D:\works\Homework\HiddenFace\main.cpp(55,59): warning C4244:         ]
+D:\works\Homework\HiddenFace\main.cpp(55,35): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+D:\works\Homework\HiddenFace\main.cpp(55,35): warning C4244:         with
+D:\works\Homework\HiddenFace\main.cpp(55,35): warning C4244:         [
+D:\works\Homework\HiddenFace\main.cpp(55,35): warning C4244:             T=float
+D:\works\Homework\HiddenFace\main.cpp(55,35): warning C4244:         ]
+D:\works\Homework\HiddenFace\main.cpp(71,33): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+D:\works\Homework\HiddenFace\main.cpp(71,33): warning C4244:         with
+D:\works\Homework\HiddenFace\main.cpp(71,33): warning C4244:         [
+D:\works\Homework\HiddenFace\main.cpp(71,33): warning C4244:             T=float
+D:\works\Homework\HiddenFace\main.cpp(71,33): warning C4244:         ]
+D:\works\Homework\HiddenFace\main.cpp(71,28): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+D:\works\Homework\HiddenFace\main.cpp(71,28): warning C4244:         with
+D:\works\Homework\HiddenFace\main.cpp(71,28): warning C4244:         [
+D:\works\Homework\HiddenFace\main.cpp(71,28): warning C4244:             T=float
+D:\works\Homework\HiddenFace\main.cpp(71,28): warning C4244:         ]
+D:\works\Homework\HiddenFace\main.cpp(78,56): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+D:\works\Homework\HiddenFace\main.cpp(78,56): warning C4244:         with
+D:\works\Homework\HiddenFace\main.cpp(78,56): warning C4244:         [
+D:\works\Homework\HiddenFace\main.cpp(78,56): warning C4244:             T=float
+D:\works\Homework\HiddenFace\main.cpp(78,56): warning C4244:         ]
+D:\works\Homework\HiddenFace\main.cpp(78,21): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+D:\works\Homework\HiddenFace\main.cpp(78,21): warning C4244:         with
+D:\works\Homework\HiddenFace\main.cpp(78,21): warning C4244:         [
+D:\works\Homework\HiddenFace\main.cpp(78,21): warning C4244:             T=float
+D:\works\Homework\HiddenFace\main.cpp(78,21): warning C4244:         ]
+D:\works\Homework\HiddenFace\main.cpp(108,90): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\works\Homework\HiddenFace\main.cpp(108,71): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\works\Homework\HiddenFace\main.cpp(108,52): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+  HiddenFace.vcxproj -> D:\works\Homework\HiddenFace\x64\Debug\HiddenFace.exe
