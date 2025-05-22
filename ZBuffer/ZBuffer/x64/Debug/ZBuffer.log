@@ -1,0 +1,4 @@
+﻿  ZBuffer.cpp
+D:\works\Homework\ZBuffer\ZBuffer.cpp(27,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\works\Homework\ZBuffer\ZBuffer.cpp(46,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ZBuffer.vcxproj -> D:\works\Homework\ZBuffer\x64\Debug\ZBuffer.exe
