@@ -1,0 +1,10 @@
+﻿  Games101Day01.cpp
+D:\works\Homework\Games101Day01\Games101Day01\Games101Day01.cpp(27,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\works\Homework\Games101Day01\Games101Day01\Games101Day01.cpp(52,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\works\Homework\Games101Day01\Games101Day01\Games101Day01.cpp(53,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\works\Homework\Games101Day01\Games101Day01\Games101Day01.cpp(54,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\works\Homework\Games101Day01\Games101Day01\Games101Day01.cpp(55,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  model.cpp
+  tgaimage.cpp
+  正在生成代码...
+  Games101Day01.vcxproj -> D:\works\Homework\Games101Day01\x64\Debug\Games101Day01.exe
